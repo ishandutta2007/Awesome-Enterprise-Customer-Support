@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global customer service software market is estimated at **$11B–$15B** (with the broader customer self-service and CX automation segment surpassing **$20B–$26B**) expanding at an 11%–20% CAGR driven by generative AI agents and omnichannel workflow integration. The market exhibits a **hybrid structure**—it is **concentrated at the high-end enterprise tier** dominated by massive platform ecosystems (Microsoft, Salesforce, ServiceNow, Oracle, SAP), yet **moderately-to-highly fragmented across mid-market, SMB, and specialized niche categories** where modern pure-play SaaS and agile open-source platforms compete actively without a single winner-take-all outcome.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Zendesk Enterprise**
-
-  **Enterprise customer service platform** with omnichannel support and AI agents. **Pricing**: **Suite Professional $115/agent/month**; **Suite Enterprise** quote-only; **Advanced AI add-on $50/agent/month** stacks on top . **Free tier**: No free plan; 14-day trial. **Best for**: mid-market to enterprise teams wanting the broadest marketplace (1,500+ apps) and mature omnichannel routing—**trade-off**: AI costs stack quickly; all-in cost can reach **$165–$200/agent/month** with Copilot and autonomous resolution fees .
-
-
-
-- **Salesforce Service Cloud**
-
-  **Enterprise service platform** with case management and Einstein AI. **Pricing**: **Starter Suite $25/user/month**; **Pro Suite $100**; **Enterprise $165**; **Unlimited $330**; Agentforce add-ons extra. **Free tier**: 30-day trial. **Best for**: large enterprises already on Salesforce needing deep CRM integration—**trade-off**: implementation requires Salesforce admin; costs climb steeply above Pro Suite.
-
-
-
-- **ServiceNow CSM**
-
-  **Enterprise customer service management** on ServiceNow platform. **Pricing**: **~$130–$200/fulfiller/month** (estimated); Now Assist AI bundled + overage . **Free tier**: None. **Best for**: large enterprises needing CSM integrated with ITSM and CMDB across departments—**trade-off**: **Very High migration complexity**; first-year services costs routinely exceed Year 1 licensing .
-
-
-
-- **Freshdesk Enterprise**
-
-  **Support ticketing** with Freddy AI. **Pricing**: **Growth $19/agent/month**; **Pro $55**; **Enterprise $89** . **Free tier**: No free plan on current pricing page; 14-day trial. **Best for**: cost-sensitive teams wanting multichannel support without Salesforce complexity—**trade-off**: **Freddy AI Copilot $29/agent/month** add-on; Enterprise tier cannot match Salesforce custom object depth .
-
-
-
-- **Oracle CX Service**
-
-  **Enterprise customer service** within Oracle Cloud. **Pricing**: Quote-only. **Free tier**: None. **Best for**: Oracle-centric enterprises wanting unified CX.
-
-
-
-- **Microsoft Dynamics 365 Customer Service**
-
-  **Enterprise customer service** within Microsoft ecosystem. **Pricing**: Quote-only; tiered by users. **Free tier**: Trial available. **Best for**: Microsoft-centric organizations wanting native integration.
-
-
-
-- **SAP Service Cloud**
-
-  **Enterprise service management** within SAP ecosystem. **Pricing**: Quote-only. **Free tier**: None. **Best for**: SAP-centric enterprises needing integrated service operations.
-
-
-
-- **Pegasystems**
-
-  **AI-powered workflow automation** with customer service capabilities. **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises needing AI-driven process automation alongside support.
-
-
-
-- **Khoros**
-
-  **Enterprise social media management and community** platform. **Pricing**: Quote-only; **Vendr median $164,649/year**; implementation **$10,000–$100,000+**. **Free tier**: None. **Best for**: large enterprises needing integrated social care and community—**trade-off**: six-figure commitments; sales-only engagement.
-
-
-
-- **Atlassian Cloud Enterprise Support**
-
-  **Premium support** for Atlassian Cloud products. **Pricing**: Included with Enterprise plans; quote-based. **Free tier**: Limited. **Best for**: Atlassian customers wanting enhanced support for their Jira/Confluence investment—**not** a standalone customer support platform.
-
-
+| Platform | Company Size (Market Cap / Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limit | Key Features & Best For |
+|---|---|---|---|---|
+| **Microsoft Dynamics 365 Customer Service** | ~$3.1T Market Cap (Microsoft) | Customer Service Professional: **$50/user/month** (annual commitment); Enterprise at **$105/user/month**; Premium at **$195/user/month**; Attach license at **$20/user/month** | **30-day free trial**; includes sample data and core testing access for up to 25 users | Best for Microsoft 365/Teams-centric organizations wanting native integration and Copilot AI assistance. |
+| **Oracle CX Service** | ~$370B Market Cap (Oracle) | RightNow Standard Dynamic Agent Desktop: **$110/user/month**; Enterprise Desktop: **$140/user/month** | **30-day free trial** via Oracle Cloud Trial with **$300 cloud credits** (guided demo required for full enterprise CX instance) | Best for Oracle Fusion/ERP-centric enterprises wanting unified CX, contact center capabilities, and knowledge management. |
+| **Salesforce Service Cloud** | ~$280B Market Cap (Salesforce) | Starter Suite: **$25/user/month**; Pro Suite: **$100/user/month**; Enterprise: **$165/user/month**; Unlimited: **$330/user/month** | **30-day free trial**; full trial environment with sample data, pre-configured workflows, and Einstein AI evaluation | Best for large enterprises already on Salesforce needing deep CRM integration, omnichannel routing, and Agentforce automation. |
+| **SAP Service Cloud** | ~$260B Market Cap (SAP) | Standard CX service modules starting at **~$60–$130/user/month** (enterprise quote contract based on volume) | **30-day free trial**; pre-configured sandbox with sample test scenarios and Joule AI assistant access | Best for SAP-centric organizations requiring deep integration with SAP S/4HANA ERP, field service, and master customer records. |
+| **ServiceNow CSM** | ~$200B Market Cap (ServiceNow) | Customer Service Management fulfiller seats start at **~$130–$200/fulfiller/month** (standard annual enterprise subscription) | **Personal Developer Instance (PDI)** free indefinitely with active use (hibernates after inactivity; requires periodic login); official enterprise trials via custom sales sandbox | Best for large enterprises needing customer service deeply integrated with IT service management (ITSM) and CMDB across departments. |
+| **Atlassian Cloud Enterprise Support (Jira Service Management)** | ~$45B Market Cap (Atlassian) | **Free plan: $0** (up to 3 agents); Standard: **$20–$25/agent/month**; Premium: **$51–$57/agent/month**; Enterprise: custom quote | **Free forever plan for up to 3 agents** (with basic request queues and community support) or a **7-day free trial** of Standard/Premium tiers | Best for IT and service teams running on Jira wanting service requests, SLA tracking, incident escalation, and asset management. |
+| **Zendesk Enterprise** | ~$10.2B Valuation (Acquired by Hellman & Friedman / Permira) | Support Team starting at **$19/agent/month**; Suite Professional at **$115/agent/month**; Suite Enterprise quote-only; Advanced AI add-on at **$50/agent/month** | **14-day free trial**; access to full omnichannel ticketing, help center, and test routing for evaluation | Best for mid-market to enterprise teams wanting a mature app marketplace (1,500+ apps) and omnichannel ticketing workflows. |
+| **Pegasystems** | ~$8B Market Cap (Pegasystems) | Case Management starting at **$97/user/month**; Enterprise tier at **$165/user/month**; Digital Engagement at **$260–$300/user/month** (or **$0.47–$1.26/case**) | **30-day free trial** (Pega Platform Community Edition sandbox, extendable by 15 days, 1 active trial instance per account) | Best for organizations requiring AI-driven decisioning (Next-Best-Action), complex case architectures, and process automation. |
+| **Freshdesk Enterprise** | ~$3.9B Market Cap (Freshworks) | Growth: **$19/agent/month** (billed annually) or **$15/agent/month**; Pro: **$55/agent/month**; Enterprise: **$89/agent/month**; Freddy Copilot at **$29/agent/month** | **Free forever plan for up to 2 agents** (or 14-day free trial of Pro/Enterprise tiers with unlimited agents) | Best for cost-conscious support operations seeking clean multichannel ticketing and AI automation without Salesforce-level complexity. |
+| **Khoros** | ~$250M+ Annual Revenue / Acquired by IgniteTech | Enterprise annual contracts starting at **~$50,000–$165,000/year** (median ACV ~$164,649/yr; implementation $10k–$100k+) | **No self-service free trial**; guided product walkthrough and sales-governed Proof of Concept (PoC) sandbox available upon request | Best for large global enterprises needing unified brand communities, digital contact centers, and social customer care. |
 
 ## Open-Source GitHub Projects
 
