@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Customer-Support/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Customer-Support?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Customer-Support/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Customer-Support?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Customer-Support/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Customer-Support?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Customer-Support/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-Customer-Support?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Customer-Support/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -73,7 +73,7 @@ The industry displays a distinct **hybrid market structure**:
 
 *Ranked in descending order of GitHub community stars:* ⭐
 
-### 1. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) 💬🔥
+### 1. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) 💬🔥
 - **Overview**: An open-source, omni-channel customer engagement platform built as an alternative to Intercom, Zendesk, and Salesforce Service Cloud.
 - **Key Features**: Live chat widget, shared inbox, email support, WhatsApp, Facebook Messenger, Instagram, and Telegram integrations; custom webhooks, agent capacity rules, and mobile apps.
 - **Tech Stack**: Ruby on Rails, Vue.js, PostgreSQL, Redis.
@@ -82,7 +82,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 2. [UVdesk Community](https://github.com/uvdesk/community-skeleton) [![GitHub Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers) 📬🛡️
+### 2. [UVdesk Community](https://github.com/uvdesk/community-skeleton) [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers) 📬🛡️
 - **Overview**: A full-featured, enterprise-ready PHP-based open-source helpdesk system designed to streamline customer ticket management and team collaboration.
 - **Key Features**: Unlimited agents, teams, mailboxes, and tickets; customer knowledge base portal, custom ticket fields, automated workflows, and email-to-ticket conversion.
 - **Tech Stack**: PHP (Symfony framework), MySQL/MariaDB.
@@ -91,7 +91,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 3. [Papercups](https://github.com/papercups-io/papercups) [![GitHub Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) ⚡📦
+### 3. [Papercups](https://github.com/papercups-io/papercups) [![GitHub_Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) ⚡📦
 - **Overview**: Open-source live customer messaging software built for web and mobile apps, designed as a lightweight alternative to Intercom and Drift.
 - **Key Features**: Customizable React chat widget, Slack integration (reply to customers directly from Slack channels), email forwarding, and clean REST APIs.
 - **Tech Stack**: Elixir, Phoenix Framework, React, PostgreSQL.
@@ -100,7 +100,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 4. [Zammad](https://github.com/zammad/zammad) [![GitHub Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) 🌟🖥️
+### 4. [Zammad](https://github.com/zammad/zammad) [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) 🌟🖥️
 - **Overview**: A web-based open-source customer support and helpdesk system featuring one of the cleanest, fastest UIs in the open-source ecosystem.
 - **Key Features**: Email, web forms, live chat, SMS, Telegram, Facebook, and WhatsApp channels; SAML 2.0, OpenID Connect, and Microsoft 365 SSO included in the free code; read-only admin audit logs, SLA management, and built-in migration wizards for Zendesk and Freshdesk.
 - **Tech Stack**: Ruby 3.4, Rails 8, Vue.js, PostgreSQL, Elasticsearch.
@@ -109,7 +109,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 5. [FreeScout](https://github.com/freescout-help-desk/freescout) [![GitHub Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers) 🕊️⚡
+### 5. [FreeScout](https://github.com/freescout-help-desk/freescout) [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers) 🕊️⚡
 - **Overview**: A lightweight, self-hosted helpdesk and shared inbox application engineered as a free, self-hosted alternative to Help Scout and Zendesk.
 - **Key Features**: Zero limitations on user accounts, tickets, or shared mailboxes; 100% mobile-friendly responsive layout, multi-language support (30+ locales), conversation collision detection, open tracking, and native iOS/Android mobile apps.
 - **Tech Stack**: PHP 8.x (Laravel), MySQL/MariaDB.
@@ -118,7 +118,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 6. [Chaskiq](https://github.com/chaskiq/chaskiq) [![GitHub Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers) 💬🚀
+### 6. [Chaskiq](https://github.com/chaskiq/chaskiq) [![GitHub_Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers) 💬🚀
 - **Overview**: A full-featured conversational marketing, customer support, and engagement platform designed as an alternative to Intercom, Drift, and Crisp.
 - **Key Features**: Conversational chatbots, in-app messaging, email campaign automations, video calling, customizable live chat messenger, and integrations with WhatsApp, Twitter, and Slack.
 - **Tech Stack**: Ruby on Rails, React, PostgreSQL, Redis.
@@ -127,7 +127,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 7. [Frappe Helpdesk](https://github.com/frappe/helpdesk) [![GitHub Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers) ☕📋
+### 7. [Frappe Helpdesk](https://github.com/frappe/helpdesk) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers) ☕📋
 - **Overview**: A streamlined, modern open-source customer service and ticketing solution built on the robust Frappe Python framework.
 - **Key Features**: Unlimited agents, business hours SLA management, automatic ticket routing, customer self-service portal, knowledge base, and bidirectional synchronization with ERPNext records.
 - **Tech Stack**: Python, Vue 3, Frappe Framework, MariaDB, Redis.
@@ -136,7 +136,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 8. [Peppermint](https://github.com/Peppermint-Lab/peppermint) [![GitHub Stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers) 🍃🎯
+### 8. [Peppermint](https://github.com/Peppermint-Lab/peppermint) [![GitHub_Stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers) 🍃🎯
 - **Overview**: A fresh, lightweight open-source issue management and customer ticket system created as a minimalist alternative to Zendesk and Jira Service Management.
 - **Key Features**: Ticket triage, tags, priority assignment, canned responses, markdown editor, user roles, email alerting, and responsive mobile-ready interface.
 - **Tech Stack**: Node.js, Express, React, MongoDB.
@@ -145,7 +145,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 9. [Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat) [![GitHub Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers) 📞🤖
+### 9. [Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat) [![GitHub_Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers) 📞🤖
 - **Overview**: A veteran, battle-tested open-source live support and chat system featuring native bot builders, voice/video calling, and screen sharing.
 - **Key Features**: Live web chat, proactive invitations, co-browsing, Telegram, Twilio WhatsApp, and Facebook Messenger support; visual bot builder, desktop notifications, and mobile applications.
 - **Tech Stack**: PHP, MySQL/MariaDB, Node.js (for real-time socket cluster).
@@ -154,7 +154,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 10. [Request Tracker (RT)](https://github.com/bestpractical/rt) [![GitHub Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers) 🛡️🗂️
+### 10. [Request Tracker (RT)](https://github.com/bestpractical/rt) [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers) 🛡️🗂️
 - **Overview**: The gold standard in enterprise-grade open-source issue tracking, workflow coordination, and service desk management, trusted by corporations and academic institutions worldwide for decades.
 - **Key Features**: Unrivaled granular per-queue, per-role permissions; built-in enterprise asset management, REST 2.0 API, PGP/S/MIME email encryption, and customizable ticket lifecycle workflows.
 - **Tech Stack**: Perl, Apache/FastCGI, MySQL/MariaDB, PostgreSQL, Oracle.
@@ -163,7 +163,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 11. [OTOBO](https://github.com/RotherOSS/otobo) [![GitHub Stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers) 🦉💼
+### 11. [OTOBO](https://github.com/RotherOSS/otobo) [![GitHub_Stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers) 🦉💼
 - **Overview**: The premier maintained open-source fork of OTRS, purpose-built for comprehensive Customer Service, Help Desk, and IT Service Management (ITSM).
 - **Key Features**: Free downloadable ITSM packages (CMDB, Change Management, Incident Management); customer self-service portal, flexible SLA definitions, OpenID Connect / LDAP integration, and RESTful APIs.
 - **Tech Stack**: Perl, Apache/Nginx, MariaDB, MySQL, PostgreSQL, Oracle.
@@ -172,7 +172,7 @@ The industry displays a distinct **hybrid market structure**:
 
 ---
 
-### 12. [Helpdock](https://github.com/Docker-Hunterpedia/Helpdock) [![GitHub Stars](https://img.shields.io/github/stars/Docker-Hunterpedia/Helpdock?style=social&color=white)](https://github.com/Docker-Hunterpedia/Helpdock/stargazers) 🔒🧭
+### 12. [Helpdock](https://github.com/Docker-Hunterpedia/Helpdock) [![GitHub_Stars](https://img.shields.io/github/stars/Docker-Hunterpedia/Helpdock?style=social&color=white)](https://github.com/Docker-Hunterpedia/Helpdock/stargazers) 🔒🧭
 - **Overview**: A security-hardened, multi-brand open-source customer support platform equipped with grounded AI and enterprise authentication.
 - **Key Features**: Ticketing, help center, and chat widget in one image; multi-brand tenancy with row-level security; SAML 2.0 and OIDC SSO; verified OWASP ASVS 4.0.3 Level 2 alignment and Cosign-signed images with CycloneDX SBOMs.
 - **Tech Stack**: Docker, Go/Node backend, PostgreSQL, S3-compatible object storage.
@@ -189,7 +189,7 @@ Contributions, bug reports, and updates are warmly welcomed! 🎉
 2. 🌿 Create a feature branch: `git checkout -b feature/new-support-tool`
 3. ✍️ Add or update entries in `README.md` following the established formatting guidelines:
    - Provide verified starting tier pricing and accurate free tier/trial limits.
-   - Include the official repository link and stars badge for open-source tools.
+   - Include the official repository link and Stars_Badge for open-source tools.
 4. 🚀 Commit your changes: `git commit -m "feat: add NewTool support entry"`
 5. 📬 Submit a **Pull Request** with a brief summary of why the addition benefits the community.
 
@@ -222,3 +222,12 @@ If this curated guide helps you choose the right customer support architecture o
 <p align="center">
   <sub>Curated with ❤️ for support teams, IT leaders, and DevOps architects worldwide.</sub>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Enterprise-Customer-Support&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Enterprise-Customer-Support_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Enterprise-Customer-Support_growth.svg">
+  </picture>
+</a>
